@@ -2,3 +2,6 @@ ESte aprendiendo en platzi muchas cosas
 no se ha guardado 
 
 que vamos hacer
+
+escribamos algo mas 
+para que se noten los cambios y ver si aprendi git
