@@ -2,29 +2,27 @@ body
 {
     color: #333;
     text-align: center; 
-    font-family: Arial;
+    font-family: 'Times New Roman';
     font-size: 16px;
     margin: auto;
     padding: auto;
-
 }
 #cabecera 
 {
-    background: rgb(17, 17, 80);
+    background: rgb(19, 153, 30);
     color: white;
     text-align: center;
     font-size: 24px;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-    box-shadow: -21px -10px 37px 15px rgba(74,94,130,0.77);
+    box-shadow: -21px -10px 37px 15px rgba(28, 128, 98, 0.77);
 }
 #cabecera #tangline
 {
     padding: 0 0 0 1em;
     font-size: 0.8em;
     font-weight:normal;
-
 }
 #container
 {
@@ -37,10 +35,8 @@ body
 #container h1
 {
     font-size: 30px;
-
 }
 #post:
 {
     padding: 1em;
-
 }
